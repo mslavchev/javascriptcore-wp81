@@ -1,4 +1,4 @@
 javascriptcore-wp81
 ===================
 
-Running JavaScriptCore on Windows Phone 8.1
+Before you build the project make sure that you unzip JavaScriptCore static libraries (JSCMobile\JSC\lib\lib.zip).
